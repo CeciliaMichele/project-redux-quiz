@@ -2,4 +2,4 @@
 
 A mob-programming project built with React where we used Redux.
 
-https://lively-bonbon-cc663c.netlify.app/
+https://wonderful-macaron-ea2dd4.netlify.app/
